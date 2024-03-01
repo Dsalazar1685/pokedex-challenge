@@ -14,6 +14,12 @@ export const Container = styled.div`
   }
 `
 
+export const Select = styled.select`
+  width: 30%
+`
+
+export const Label = styled.label``
+
 export const List = styled.ul`
   display: inline-flex;
   flex-direction: column;
